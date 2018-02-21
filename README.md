@@ -1,3 +1,19 @@
+Aseman junatiedot, ennakkotehtävä Eatechille.
+
+Etsii ja näyttää seuraavien asemalta lähtevien ja sinne tulevien junien tietoja. Tehty käyttäen Create React Appia.
+hakemisto node_modules puuttuu, mutta riippuvuudet löytyvät package.json-tiedostosta.
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
