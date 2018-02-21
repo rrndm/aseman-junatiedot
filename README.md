@@ -3,7 +3,7 @@ Aseman junatiedot, ennakkotehtävä Eatechille.
 Etsii ja näyttää seuraavien asemalta lähtevien ja sinne tulevien junien tietoja. Tehty käyttäen Create React Appia.
 hakemisto node_modules puuttuu, mutta riippuvuudet löytyvät package.json-tiedostosta.
 
-
+Rajapinta ei vaikuttanut toimivan oikein, joten tein filtteröinnin omin metodein.
 
 
 
