@@ -1,0 +1,12 @@
+.header {
+  background-color: #56A319;
+  color: #FFFFFF;
+  font-family: "Arial", Arial, sans-serif;
+  box-shadow: 0px 5px 10px grey;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 1px;
+  padding-left: 23px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+}

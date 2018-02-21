@@ -1,0 +1,37 @@
+.table {
+  max-width: 70%;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 12px;
+  border-top: 1px;
+  min-width: 320px;
+}
+
+
+.table-responsive{
+  border: 0px;
+  min-width: 320px;
+}
+
+small {
+  color: #9D9D9D;
+}
+
+.cancelled {
+  color: #C6C6C6;
+}
+
+.cancelText{
+  color: #FF0000;
+  text-align: left;
+  margin-left: -25px;
+}
+
+.early{
+  color: #00FF00;
+}
+
+.late{
+  color: #FF0000;
+}
+
